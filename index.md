@@ -4,4 +4,4 @@ Hello there. I'm Theodore. You may also know me as Adam, or Red. Whichever name 
 
 ## Music
 
-Here's all the music I've ever either written or co-written and has also been recorded: https://soundcloud.com/adamfc-music
+Here's all the music I've ever either written or co-written and has also been recorded. [Listen on Soundcloud](https://soundcloud.com/adamfc-music)
