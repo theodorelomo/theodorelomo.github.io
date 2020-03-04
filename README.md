@@ -2,5 +2,4 @@
 A website containing things I've made
 
 ## To add
-- tweets
-- blog
+- blog (wordpress)
